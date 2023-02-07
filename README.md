@@ -1,1 +1,1 @@
-# BRACU_MAT215-Complex_Variables-Laplace_Trasformation
+These are my Lab Assignment files with solution of Brac University's Department of Mathmatics & Natural Sciences course MAT215, known as Complex Variable & Laplace Transformation. These Lab assignments are given during Summer'2022 Semester for the course work.
